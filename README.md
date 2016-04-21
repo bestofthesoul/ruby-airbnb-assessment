@@ -48,7 +48,7 @@ The App should be doing the following:
 4. User is able to DELETE his/her own booking **only**
 
 # Time Length
-A maximum of 5 hours. Hard stop at 3pm.
+A maximum of 5.5 hours
 
 # Procedure
 1. Fork this repo and git clone it to your local machine.
